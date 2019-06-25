@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ <suite name="Suite to test with  for TestAll">
+ 	<test name="FirstTest for TestSuite - HomePage">
+ 		<classes>
+ 			<class 	name = "test.HomePageTest"/>			 			
+ 		
+ 		</classes> 
+ 		</test>
+ </suite>
